@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SeaBatle.ShipDataBase" Collapsed="true">
+    <Position X="16.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAQAQAAFAAAAAAAAAABAAACAAAAAAAAAI=</HashCode>
+      <FileName>ShipDataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaBatle.Ship" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAIACAAYIAAAAAAAAAACAAMAAAAgAiBAAA=</HashCode>
+      <FileName>Ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaBatle.PreGameWindow">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGgEACAYCEAQQgKABKAKBAAKAAAAAAQHAAAgEAg=</HashCode>
+      <FileName>PreGameWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaBatle.MainMenu">
+    <Position X="5.5" Y="4.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaBatle.Game">
+    <Position X="11.5" Y="4.5" Width="6" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAECBEAABKAYJMAQCiCIBgAGBGAiAQCAAIABAAAgAAg=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaBatle.Bot" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEgIBQBEAQAAAAgAAABAACAACAAIEBAAAgEAg=</HashCode>
+      <FileName>Bot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
